@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>DebianPackageListParser</title>
+    <authors>Sergey Anufrienko</authors>
+    <owners>Sergey Anufrienko</owners>
+    <licenseUrl>https://opensource.org/licenses/ms-pl.html</licenseUrl>
+    <projectUrl>https://github.com/madprogrammer/DebianPackagesParser</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Parse Debian package index (Packages.gz) into dynamic objects. Inspired by Perl's Parse::Debian::Packages module.</description>
+    <releaseNotes></releaseNotes>
+    <tags>parser</tags>
+  </metadata>
+</package>
